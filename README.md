@@ -47,3 +47,7 @@
 │  └─ config.toml            # конфіг (ліміти, тема тощо)
 └─ README.md
 ```
+
+## 🚀 Live demo (Streamlit)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://b-spline-tracegit-hrj9sjs5am7jvgxzcpvmjm.streamlit.app/)
