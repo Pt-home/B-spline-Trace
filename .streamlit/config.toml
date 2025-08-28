@@ -1,0 +1,11 @@
+[server]
+# Ліміт розміру файлів на завантаження (у мегабайтах)
+maxUploadSize = 400
+fileWatcherType = "auto"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#3366ff"
